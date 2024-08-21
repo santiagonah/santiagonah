@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue heart
+### Boas vindas ao meu perfil 💙
 Meu nome é Thainá Santiago
 
 Estou estudando na Alura
